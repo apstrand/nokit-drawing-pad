@@ -1,3 +1,3 @@
 # NoKit - Drawing Pad
 
-Based on "cheap yellow esp32 screen".
+Based on "cheap yellow display with esp32".
